@@ -116,6 +116,7 @@ footer p a
   {
     display: none;
   }
+}
 
 /* Media Query for Desktop Viewport */
 @media screen and (min-width: 1015px), print
@@ -187,7 +188,7 @@ nav li a:hover {
     color: #000;
     font-size: 1.15em;
     text-align: left;
-    width: ;
+    width: 100%;
   }
 
   tr:nth-child(odd) {
@@ -256,4 +257,5 @@ main {
 
 .about h1 {
   text-align: center;
+}
 }
